@@ -9,11 +9,11 @@ import tenisImage from './assets/Tenis_Cadastro.jpg'
 import './App.css'
 
 const initialProducts = [
-	{ id: 1, name: 'Relogio Aurora', category: 'Acessórios', price: 300.90, description: 'Detalhe dourado para todos os dias.', image: ouroImage },
-	{ id: 2, name: 'Fedora Elegante', category: 'Chapéus', price: 129.90, description: 'Textura leve e acabamento artesanal.', image: fedoraImage },
-	{ id: 3, name: 'Camisa Essential', category: 'Vestuário', price: 159.90, description: 'Corte confortável em algodão premium.', image: camisaImage },
-	{ id: 4, name: 'Jaqueta Utility', category: 'Vestuário', price: 298.90, description: 'Praticidade e personalidade em uma peça.', image: jaquetaImage },
-	{ id: 5, name: 'Calça Wide Leg', category: 'Vestuário', price: 219.90, description: 'Modelagem ampla para um visual atual.', image: calcaImage },
+	{ id: 1, name: 'Relogio Aurora', category: 'Acessórios', price: 300.90, description: 'Detalhes de ouro de 18 kilates.', image: ouroImage },
+	{ id: 2, name: 'Fedora Elegante', category: 'Chapéus', price: 129.90, description: 'Estiloso para qualquer ocasião.', image: fedoraImage },
+	{ id: 3, name: 'Camisa Essential', category: 'Vestuário', price: 159.90, description: 'Corte confortável e tecido de alta qualidade.', image: camisaImage },
+	{ id: 4, name: 'Jaqueta Utility', category: 'Vestuário', price: 298.90, description: 'Estilo e personalidade em uma peça só.', image: jaquetaImage },
+	{ id: 5, name: 'Calça Wide Leg', category: 'Vestuário', price: 219.90, description: 'Modelagem ampla para um visual Classico.', image: calcaImage },
 	{ id: 6, name: 'Tênis Motion', category: 'Calçados', price: 279.90, description: 'Leveza para acompanhar seu ritmo.', image: tenisImage },
 ]
 
