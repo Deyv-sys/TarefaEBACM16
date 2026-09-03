@@ -1,7 +1,7 @@
 function formatPrice(price) {
 	return new Intl.NumberFormat('pt-BR', {
-		style: 'currency',
-		currency: 'BRL',
+		style: 'currency',  
+		currency: 'BRL'
 	}).format(price)
 }
 
@@ -25,5 +25,6 @@ export default function ProdutoCard({ product, onRemove }) {
 				</div>
 			</div>
 		</article>
+        
 	)
 }
